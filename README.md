@@ -27,11 +27,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luis22d&theme=chartreuse-dark&hide_border=true&stroke=31b43b&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak Stats" />
-</p>
-
-
 <h2>
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35">
   About Me
