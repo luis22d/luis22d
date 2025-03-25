@@ -43,7 +43,7 @@ namespace ZeroTrace
     public class CyberSecurityExpert
     {
         public string Name { get; } = "ZeroTrace Developer";
-        public string[] Languages { get; } = { "C#", "PowerShell", "JavaScript", "Python" };
+        public string[] Languages { get; } = { "Delphi", "C++", "C#", "PowerShell", "JavaScript", "Python" };
         public string[] Specialties { get; } = 
         { 
             "Malware Analysis",
