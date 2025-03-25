@@ -98,7 +98,7 @@ namespace ZeroTrace
   <a href="https://t.me/ZeroTraceDeveloper">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:bittiartik014@gmail.com">
+  <a href="mailto:luis22dubuquexvx@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
