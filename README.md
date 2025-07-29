@@ -117,9 +117,7 @@ namespace ZeroTrace
 </p>
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ZeroTraceDev/count.svg" alt="Visitor Count" />
-</div>
+
 
 
 <p align="center">
